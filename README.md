@@ -3,8 +3,8 @@
 I'm french
 I make a reconversion in the web in 2020, because i like coding, learn and share
 
-Link to [portfolio Delphine](https://portfoliodelphine.netlify.app)
-Link to [Linkedin](https://www.linkedin.com/in/delphine-rodriguez/)
+Here is my [portfolio Delphine](https://portfoliodelphine.netlify.app) and my
+ [Linkedin](https://www.linkedin.com/in/delphine-rodriguez/)
 
 - 🏰 Lyon
 - I strive to evolve
