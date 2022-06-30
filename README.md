@@ -3,11 +3,11 @@
 I'm french
 I make a reconversion in the web in 2020, because i like coding, learn and share
 
-DelphineRodriguez
-Linkedin
+Link to [portfolio Delphine](https://portfoliodelphine.netlify.app)
+Link to [Linkedin](https://www.linkedin.com/in/delphine-rodriguez/)
 
--> Lyon
--> I strive to evolve
+- 🏰 Lyon
+- I strive to evolve
 - 🔭 I’m currently working on React.js and ReactNative
 - 🌱 I’m currently learning the applications
 - 👯 I collaborate with the people design 
