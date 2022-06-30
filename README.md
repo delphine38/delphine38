@@ -22,5 +22,5 @@ PhpMyAdmin
 
 Vs code, Discord 😉
 
-Link to [site name](https://portfoliodelphine.netlify.app)
+Link to [portfolio in progress](https://portfoliodelphine.netlify.app)
 
