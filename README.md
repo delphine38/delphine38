@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**delphine38/delphine38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 #Hello, how are you ? 🙂
 
@@ -28,4 +27,4 @@ PhpMyAdmin
 Vs code, Discord 😉
 
 Link to [site name](https://portfoliodelphine.netlify.app)
--->
+
