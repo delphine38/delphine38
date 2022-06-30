@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 #Hello, how are you ? 🙂
 
 I'm french
