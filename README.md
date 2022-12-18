@@ -1,26 +1,27 @@
 #Hello, how are you ? 🙂
 
 I'm french
-I make a reconversion in the web in 2020, because i like coding, learn and share
+I did a full-stack training.
+I learned to use WordPress too
 
-Here is my [portfolio Delphine](https://portfoliodelphine.netlify.app) and my
+Here is my [portfolio Delphine](http://delphinerodriguez.fr/) and my
  [Linkedin](https://www.linkedin.com/in/delphine-rodriguez/)
 
 - 🏰 Lyon
 - I strive to evolve
-- 🔭 I’m currently working on React.js and ReactNative
-- 🌱 I’m currently learning the applications
-- 👯 I collaborate with the people design 
+- 🔭 I’m currently working on WordPress
+- 🌱 As of today, October 2022, I am looking for an opportunity: WordPress Developer or Webmaster
+- 👯 I work with people to design their WordPress site 
 - 🤔 I’m looking for help with to continu
 
 
 Langages programmations : 
-html, css, React.js and ReactNative, Javascript, Php
+WordPress, html, css, Javascript, Php
 
 Database : 
 PhpMyAdmin
 
 Vs code, Discord 😉
 
-Link to [portfolio in progress](https://portfoliodelphine.netlify.app)
+Link to [portfolio Delphine](http://delphinerodriguez.fr/)
 
