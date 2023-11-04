@@ -8,12 +8,11 @@ Et je m'autoforme en php
 Langages programmations : 
 Php
 
-C. M. S. :
-WordPress
-
-
 Database : 
 PhpMyAdmin
+
+C. M. S. :
+WordPress
 
 Vs code, Discord 😉
 
