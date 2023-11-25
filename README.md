@@ -5,11 +5,7 @@
       return 0;
       }
 
-aussi 
-
-<?php
-  echo " qu'au Langage Php 🙂
-?>
+ainsi <?php echo " qu'au Langage Php 🙂 ?>
 
 Je suis Lyonnaise
 Très curieuse, et le temps passe très vite quand on avance sur un projet
