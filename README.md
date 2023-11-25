@@ -1,15 +1,30 @@
+#include <stdio.h>
+  int main(int argc, char *argv[])
+      {
+      printf("Je me m'autoforme au Langage C");
+      return 0;
+      }
+
+ainsi 
+
 <?php
-  echo " Salut à toi, comment vas tu ? 🙂
+  echo " qu'au Langage Php ? 🙂
 ?>
 
 Je suis Lyonnaise
-Et je m'autoforme en php
+Très curieuse, et le temps passe très vite quand on avance sur un projet
 
-Langages programmations : 
+Langage de compilation : 
+C
+
+Langage programmation : 
 Php
 
-Database : 
+Database Base De Données Relationnelle : 
 PhpMyAdmin
+
+Versionning : 
+Git -> https://github.com/delphine38
 
 C. M. S. :
 WordPress
