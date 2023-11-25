@@ -8,7 +8,7 @@
 aussi 
 
 <?php
-  echo " qu'au Langage Php ? 🙂
+  echo " qu'au Langage Php 🙂
 ?>
 
 Je suis Lyonnaise
