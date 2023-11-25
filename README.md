@@ -5,7 +5,7 @@
       return 0;
       }
 
-ainsi 
+aussi 
 
 <?php
   echo " qu'au Langage Php ? 🙂
