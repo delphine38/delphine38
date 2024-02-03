@@ -1,20 +1,6 @@
-#include <stdio.h>
-  int main(int argc, char *argv[])
-      {
-      printf("Je me m'autoforme au Langage C 🙂");
-      return 0;
-      }
-
-ainsi qu'au Langage Php 🙂 
-
 Je suis Lyonnaise
+Connaissance du Langage Php 🙂
 Très curieuse, et le temps passe très vite quand on avance sur un projet
-
-Langage de compilation : 
-C
-
-Langage programmation : 
-Php
 
 Database Base De Données Relationnelle : 
 PhpMyAdmin
