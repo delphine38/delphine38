@@ -5,6 +5,7 @@ Passionnée d'analyses de données, heureuse de mettre en place des tableaux Exc
 Le rendu Graphique permet une meilleur visualisation
 
 Connaissance également de SQL et du Langage Php 🙂
+<br>
 Très curieuse, j'apprécie de passer du temps sur un projet
 
 Database Base De Données Relationnelle : 
