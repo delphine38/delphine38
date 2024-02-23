@@ -1,6 +1,9 @@
 Je suis Lyonnaise
-Connaissance du Langage Php 🙂
-Très curieuse, et le temps passe très vite quand on avance sur un projet
+Passionnée d'analyses de données, heureuse de mettre en place des tableaux Excel, afin de les transformer en TCD. 
+Le rendu Graphique permet une meilleur visualisation
+
+Connaissance également de SQL et du Langage Php 🙂
+Très curieuse, j'apprécie de passer du temps sur un projet
 
 Database Base De Données Relationnelle : 
 PhpMyAdmin
