@@ -15,7 +15,7 @@ Très curieuse, j'apprécie de passer du temps sur un projet
 Database Base De Données Relationnelle : 
 PhpMyAdmin et 
 
-Appetence pour les ERP
+<strong>Appétence</strong> pour les <strong>ERP</strong>
 
 Versionning : 
 Git -> https://github.com/delphine38
