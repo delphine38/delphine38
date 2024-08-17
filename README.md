@@ -1,4 +1,4 @@
-<strong>Data Analyst</strong>, <strong>Gestionnaire de Données</strong>, <strong>Excel-VBA(Automatisation de Données</strong>
+<strong>Data Analyst</strong>, <strong>Gestionnaire de Données</strong>, <strong>Excel-VBA(Automatisation de Données)</strong>
 <br>
 Hello, Je suis Delphine, Lyonnaise
 <br>
