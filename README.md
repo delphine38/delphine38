@@ -1,8 +1,8 @@
-Data Analyst, Gestionnaire de Données, Excel-VBA
+<strong>Data Analyst</strong>, <strong>Gestionnaire de Données</strong>, <strong>Excel-VBA</strong>
 <br>
 Hello, Je suis Delphine, Lyonnaise
 <br>
-Passionnée d'analyses de données, heureuse de mettre en place des tableaux Excel, afin de les transformer en TCD. 
+<strong>Passionnée</strong> d'analyses de données, heureuse de mettre en place des tableaux Excel, afin de les transformer en TCD. 
 <br>
 Le rendu Graphique permet une meilleur visualisation
 <br>
