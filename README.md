@@ -19,6 +19,10 @@ PhpMyAdmin et
 
 Versionning : 
 Git -> https://github.com/delphine38
+<br>
+
+Mon Linkedin :
+https://www.linkedin.com/in/delphine-rodriguez/
 
 C. M. S. :
 WordPress
